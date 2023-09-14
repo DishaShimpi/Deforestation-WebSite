@@ -1,0 +1,47 @@
+*{
+  margin:0;
+  padding:0;
+  font-family: Century;
+}
+div{
+  margin: auto;
+  text-align: center;
+  display: inline-block;
+}
+.title h1{
+  font-size: 40px;
+  color: Navy;
+}
+.title h2{
+  text-align: left;
+  font-size:30px;
+  color:Blue;
+}
+.title h3{
+  font-size: 25px;
+  color:blue;
+}
+.title img{
+height:400px;
+  width:500px;
+  border-radius: 50px;
+}
+body{
+  background-color: #ccffcc;
+}
+.title h4{
+  text-align: left;
+  font-size:20px;
+  color:Blue;
+ }
+ul{
+text-align: left;
+margin-left: 30px;
+font-size: 20px;
+display:inline-grid;
+}
+.title p{
+  text-align: left;
+  font-size:20px;
+  color:Purple;
+}

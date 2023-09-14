@@ -1,0 +1,46 @@
+*{
+  margin:3px  ;
+  padding:0;
+  font-family: Century;
+}
+.title h1{
+  text-align: left;
+  font-size:40px;
+  color:Navy;
+}
+.title h2{
+  text-align: left;
+  font-size:20px;
+  color: purple;
+}
+.title h3{
+  text-align: left;
+font-size:20px;
+color:Purple;
+}
+ul{
+  text-align: left;
+  margin-left: 30px;
+  display:inline-grid;
+  font-size: 20px;
+color: green;
+  }
+  .title2 h3{
+    text-align: left;
+    font-size:20px;
+    color:Purple;
+}
+.title3 h3{
+  text-align: left;
+  font-size:20px;
+  color:Purple;
+}
+body{
+  background-color: #ffcc99;
+  background-blend-mode:color-burn;
+}
+.title3 img{
+  height:400px;
+  width:500px;
+  border-radius: 50px;
+}

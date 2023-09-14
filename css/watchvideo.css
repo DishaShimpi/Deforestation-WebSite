@@ -1,0 +1,23 @@
+*{
+    margin:5px;
+    padding:2;
+    font-family: Century;
+}
+div{
+  margin: auto;
+  text-align: center;
+  display: inline-block;
+}
+.title h1{
+   text-align: center;
+    font-size: 30px ;
+    color:#006666;
+}
+.title iframe{
+  height:450px;
+  width:900px;
+  border-radius: 30px;
+}
+body{
+  background-color: #cccccc
+}

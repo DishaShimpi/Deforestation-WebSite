@@ -1,0 +1,31 @@
+*{
+    margin:3px;
+    padding:2;
+    font-family: Century;
+}
+.title h3{
+  text-align: left;
+  font-size:30px;
+  color:purple ;
+}
+.title h4{
+  text-align: left;
+  font-size:20px;
+  color:purple ;
+}
+ul{
+  text-align: left;
+  margin-left: 30px;
+  display:inline-grid;
+  font-size: 20px;
+color: brown;
+}
+.title iframe{
+  height:500px;
+  width:1000px;
+  border-radius: 30px;
+
+}
+body{
+  background-color: #ffccff
+}

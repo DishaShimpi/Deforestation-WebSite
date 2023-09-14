@@ -1,0 +1,29 @@
+{
+    margin:3px;
+    padding:2;
+    font-family: Century;
+}
+div{
+    margin: auto;
+    text-align: center;
+    display: inline-block;
+  }
+.title h1{
+  text-align: center;
+  font-size:40px;
+  color:purple ;
+}
+.title p{
+  text-align: center;
+  font-size: 25px;
+  color:green;
+}
+.title img{
+  height:500px;
+  width:700px;
+  border-radius: 50px;
+
+}
+body{
+  background-color: #ffcc99
+}
